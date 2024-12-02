@@ -3,5 +3,6 @@ This is an implementation of "Visibility Enhancement in Rocket Launch: Perceptua
 The code details will be released after the paper is accepted.
 
 Input: Input multiple exposure image sequence;
-for_redistribution_files_only: packaged independent executable files; 
+
+demo_exe: packaged independent executable files; 
 
