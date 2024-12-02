@@ -3,6 +3,5 @@ This is an implementation of "Visibility Enhancement in Rocket Launch: Perceptua
 The code details will be released after the paper is accepted.
 
 Input: Input multiple exposure image sequence;
-for_redistribution: files for installing applications and MATLAB Runtime, install the runtime environment under the folder before running the packaged executable file;
 for_redistribution_files_only: packaged independent executable files; 
 
