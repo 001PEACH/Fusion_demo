@@ -2,7 +2,7 @@
 
 # Fusion_demo
 
-This is an implementation of "Visibility Enhancement in Rocket Launch: Perceptual Dehazing with HDR System". The code details will be released after the paper is accepted.
+This is an implementation of "Visibility Enhancement in Challenging Conditions: Perceptual Dehazing with HDR System". The code details will be released after the paper is accepted.
 
 The code has been tested with Matlab R2021b. Higher versions of Matlab should also work well. Given an image pair or a video sequence, our code supports generating prediction results of fusion
 
